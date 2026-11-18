@@ -6,7 +6,7 @@ summary: >-
   Изучим структуру кода на JavaScript: инструкции, точку с запятой и
   автоматическую вставку, а также однострочные и многострочные комментарии
 status: published
-position: 21
+position: 11
 estimatedReadMinutes: 10
 ---
 # Структура кода

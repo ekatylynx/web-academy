@@ -4,7 +4,7 @@ title: Переменные в JavaScript
 slug: variables
 summary: 'Изучаем let, const и var.'
 status: published
-position: 11
+position: 21
 estimatedReadMinutes: 8
 ---
 
