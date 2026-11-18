@@ -1,10 +1,10 @@
 ---
-id: "694892bf-a386-4b71-a6ea-745bfc1338e2"
-title: "Переменные в JavaScript"
-slug: "variables"
-summary: "Изучаем let, const и var."
-status: "published"
-position: 1
+id: 694892bf-a386-4b71-a6ea-745bfc1338e2
+title: Переменные в JavaScript
+slug: variables
+summary: 'Изучаем let, const и var.'
+status: published
+position: 11
 estimatedReadMinutes: 8
 ---
 

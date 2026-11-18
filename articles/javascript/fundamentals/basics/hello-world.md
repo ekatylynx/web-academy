@@ -7,7 +7,7 @@ summary: >-
   помощью тега <script>, чем отличается встроенный код от внешнего файла и какие
   атрибуты тега сегодня уже не нужны. 
 status: published
-position: 11
+position: 1
 estimatedReadMinutes: 10
 ---
 # Привет, мир!
